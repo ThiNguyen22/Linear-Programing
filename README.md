@@ -15,7 +15,9 @@ Xây dựng một giao diện app xử lý bài toán tối ưu. Các giai đo�
 ## ✍️ Authors
 
 Nguyễn Thị Hồng Thi
+
 Lê Thị Mỹ Hằng
+
 Mai Thị Thảo Ly
 
 
